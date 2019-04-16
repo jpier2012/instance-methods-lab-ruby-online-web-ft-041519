@@ -1,7 +1,7 @@
 class Dog
 
   @@class_time = Time.now
-  @object_time = Time.now
+
 
   def self.bark
     puts "Woof!"
@@ -12,6 +12,7 @@ class Dog
   end
 
   def object_get_time
+    @object_time = Time.now
     puts "#{@object_time} This is object time"
   end
 end
