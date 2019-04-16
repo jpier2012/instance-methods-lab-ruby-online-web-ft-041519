@@ -1,7 +1,10 @@
 class Dog
 
   @@class_time = Time.now
-  @object_time = Time.now
+
+  def initialize
+    @object_time = Time.now
+  end
 
   def self.bark
     puts "Woof!"
