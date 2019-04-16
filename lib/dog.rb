@@ -27,3 +27,5 @@ lassie = Dog.new
 
 lassie.bark
 lassie.bark_bark
+
+lassie.bark_bark_bark
