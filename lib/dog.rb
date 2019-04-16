@@ -11,7 +11,7 @@ def fido.bark_bark
   puts "Woof wooooooof!"
 end
 
-Dog.bark
+#Dog.bark
 fido.bark
 fido.bark_bark
 
@@ -20,5 +20,5 @@ def Dog.wag
 end
 
 
-Dog.wag
+#Dog.wag
 fido.wag
