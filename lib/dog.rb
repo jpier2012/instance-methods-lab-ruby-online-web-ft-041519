@@ -20,5 +20,5 @@ def Dog.wag
 end
 
 
-Dog.wag
+#Dog.wag
 fido.wag
