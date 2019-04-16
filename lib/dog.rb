@@ -8,3 +8,5 @@ class Dog
 end
 
 Dog.bark
+
+Dog::time
