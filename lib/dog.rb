@@ -7,7 +7,7 @@ class Dog
   end
 
   def self.get_time
-    @@time
+    puts @@time
   end
 end
 
