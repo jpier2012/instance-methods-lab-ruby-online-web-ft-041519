@@ -2,14 +2,7 @@ class Dog
   def bark
     puts "Wooooooof!"
   end
-
-  # def wag
-  #   puts "My tail's a'waggin'!"
-  # end
 end
-
-
-fido = Dog.new
 
 def fido.bark_bark
   puts "Woof wooooooof!"
