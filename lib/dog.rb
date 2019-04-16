@@ -7,8 +7,12 @@ class Dog
     puts "Woof!"
   end
 
-  def self.get_time
+  def self.class_get_time
     puts @@class_time
+  end
+
+  def object_get_time
+    puts @object_time
   end
 end
 
