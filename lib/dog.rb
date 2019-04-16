@@ -24,5 +24,6 @@ def Dog.wag
 end
 
 
-#Dog.wag
-#fido.wag
+lassie = Dog.bew
+
+lassie.wag
