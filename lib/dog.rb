@@ -1,14 +1,14 @@
 class Dog
 
-  @@time = Time.now
-  @time = Time.now
+  @@class_time = Time.now
+  @object_time = Time.now
 
   def self.bark
     puts "Woof!"
   end
 
   def self.get_time
-    puts @@time
+    puts @@class_time
   end
 end
 
