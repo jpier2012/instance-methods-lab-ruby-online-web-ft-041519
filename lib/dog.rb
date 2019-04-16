@@ -14,7 +14,7 @@ class Dog
     puts "#{@@class_time} This is class time"
   end
 
-  def self.object_get_time
+  def object_get_time
     puts "#{@object_time} This is object time"
   end
 end
