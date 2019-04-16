@@ -2,6 +2,10 @@ class Dog
   def bark
     puts "Wooooooof!"
   end
+
+  def wag
+
+  end
 end
 
 
