@@ -18,3 +18,5 @@ Dog.get_time
 fido = Dog.new
 
 fido.get_time
+
+Dog.get_time
