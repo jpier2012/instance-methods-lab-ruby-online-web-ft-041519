@@ -8,11 +8,11 @@ class Dog
   end
 
   def self.class_get_time
-    puts @@class_time + "This is class time"
+    puts "#{@@class_time} This is class time"
   end
 
   def object_get_time
-    puts @object_time
+    puts "#{@object_time} This is class time"
   end
 end
 
