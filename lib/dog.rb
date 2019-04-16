@@ -1,6 +1,7 @@
 class Dog
 
   @@time = Time.now
+  @time = Time.now
 
   def self.bark
     puts "Woof!"
