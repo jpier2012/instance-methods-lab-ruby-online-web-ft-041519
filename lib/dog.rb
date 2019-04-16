@@ -14,3 +14,7 @@ end
 Dog.bark
 
 Dog.get_time
+
+fido = Dog.new
+
+fido.get_time
