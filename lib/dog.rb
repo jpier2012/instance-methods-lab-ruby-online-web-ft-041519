@@ -3,9 +3,9 @@ class Dog
     puts "Wooooooof!"
   end
 
-  def wag
-    puts "My tail's a'waggin'!"
-  end
+  # def wag
+  #   puts "My tail's a'waggin'!"
+  # end
 end
 
 
