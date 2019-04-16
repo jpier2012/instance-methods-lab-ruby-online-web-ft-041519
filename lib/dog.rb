@@ -12,7 +12,6 @@ class Dog
   end
 
   def object_get_time
-
     puts "#{@object_time} This is object time"
   end
 end
