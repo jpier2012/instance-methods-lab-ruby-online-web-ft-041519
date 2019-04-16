@@ -18,3 +18,7 @@ fido.bark_bark
 def Dog.wag
   puts "My tail's a'waggin'!"
 end
+
+
+Dog.wag
+fido.wag
