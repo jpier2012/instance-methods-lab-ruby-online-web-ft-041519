@@ -13,5 +13,4 @@ end
 
 Dog.bark
 
-Dog::time
 Dog.get_time
