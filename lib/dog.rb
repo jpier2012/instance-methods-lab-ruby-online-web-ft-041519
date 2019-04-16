@@ -19,6 +19,10 @@ end
 fido.bark
 fido.bark_bark
 
+def Dog.self.bark_bark_bark
+  puts "Woof, woof, woof"
+end
+
 lassie = Dog.new
 
 lassie.bark
