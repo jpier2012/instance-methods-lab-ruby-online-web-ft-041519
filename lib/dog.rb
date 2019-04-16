@@ -21,5 +21,5 @@ fido = Dog.new
 Dog.class_get_time
 #Dog.object_get_time ## doesn't work
 
-fido.class_get_time
+#fido.class_get_time ## doesn't work
 fido.object_get_time
