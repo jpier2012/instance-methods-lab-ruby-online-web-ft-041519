@@ -4,7 +4,7 @@ class Dog
   end
 
   def wag
-
+    puts "My tail's a'waggin'!"
   end
 end
 
