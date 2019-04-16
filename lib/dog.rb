@@ -19,11 +19,7 @@ end
 fido.bark
 fido.bark_bark
 
-def Dog.wag
-  puts "My tail's a'waggin'!"
-end
-
-
 lassie = Dog.new
 
-lassie.wag
+lassie.bark
+lassie.bark_bark
