@@ -24,6 +24,6 @@ def Dog.wag
 end
 
 
-lassie = Dog.bew
+lassie = Dog.new
 
 lassie.wag
